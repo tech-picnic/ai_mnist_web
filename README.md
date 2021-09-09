@@ -1,7 +1,9 @@
 # ai_mnist_web
 AI cnn  flask WEB Develop  
-노트북 사양
-gpu : 대략 성능은 최저기준에 맞춤 3.5
+노트북 사양 : 한성노트북 bossmonster x34
+cpu : i7-4702mq
+mem : 8g
+gpu : nvidia geforce gtx765m 대략 성능은 최저기준에 맞춤 3.5
 
 flask web  programming 
 python으로 개발
